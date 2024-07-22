@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pp1522
 - 👀 I’m interested in IDK roblox CM2?
-- 🌱 I’m currently learning ARM
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Nope
 - 📫 How to reach me Backroom
 - I'm Noob
